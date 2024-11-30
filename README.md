@@ -1,4 +1,4 @@
-🚀 **Aspiring Software Developer** | 🌐 Full-Stack Enthusiast | 🔧 Experienced in **Java, Python, Spring Boot, MySQL**  
+🚀 **Aspiring Software Developer** | 🌐 Full-Stack Enthusiast | 🔧 Experienced in **Java, C++, Spring Boot, MySQL**  
 💻 Passionate about building scalable and efficient applications. Familiar with **Postman** and **Swagger** for API testing.  
 🎓 Mechanical Engineering graduate with a **Postgraduate Diploma in Advanced Computing (CDAC)**.  
 🌱 Currently exploring cloud technologies like **AWS** and **Kubernetes** while honing my skills in backend development.  
