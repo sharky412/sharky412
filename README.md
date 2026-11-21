@@ -16,6 +16,7 @@
 - [**DigiYatra**](https://github.com/sharky412/DigiYatra) · [live](https://sharky412.github.io/DigiYatra/): flight booking mock-up with face-recognition self check-in
 - [**Portfolio**](https://github.com/sharky412/Portfolio) · [live](https://sharky412.github.io/Portfolio/): personal portfolio website built with React and Bootstrap
 - [**playwright-jira-creator**](https://github.com/sharky412/playwright-jira-creator): Claude Code skill that turns a Jira bug into a verified Playwright bug-recorder test
+- [**android-adb-debloat**](https://github.com/sharky412/android-adb-debloat): Claude skill to safely audit and debloat an Android phone over ADB without root (approval-gated, fully reversible)
 
 ## 📫 Let's connect
 
